@@ -12,7 +12,7 @@ Be aware that there is a strict policy concerning plagiarism. There will be (man
 
 To clone this repository, go to the directory where you want it to be located and type:
 
-    $ git clone https://github.com/PETS-TUWien/pets_ws2015.git
+    $ git clone https://github.com/PETS-TUWien/challenge02.git
 
 To update your local version in the repository, go to the GIT repository directory and type:
 
